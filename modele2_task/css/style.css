@@ -9,7 +9,7 @@
 h1 {
   margin-bottom: 15px;
   text-align: center;
-  font-size: 175%;
+  font-size: 1.75em;
  
 
 }
@@ -39,7 +39,7 @@ div.main-content {
 
 }
 p.section-header {
-    font-size: 125%;
+    font-size: 1.25em;
    border-left:1px solid black;
    border-bottom:1px solid black;
    position: absolute;
